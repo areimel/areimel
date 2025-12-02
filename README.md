@@ -10,26 +10,20 @@
                                                                                                      
 ```
 
-## Hi there 👋, I'm Alec!
+# Hi there 👋, I'm Alec!
 
-### About Me
+## About Me
 - 🔭 **My current roles:** Senior Frontend Dev, AI Engineer, Tech Lead, Technology Advocate, Freelance Developer
 - 🌱 **I’m currently learning:** Enterprise Web Dev, Hybrid Web/Desktop apps, Custom AI
 - 👯 **I’m looking to collaborate on:** AI, Marketing Tech, Tracking & Analytics Tools
 - 😄 **Pronouns:** He/Him
 
-### My Go-To Tech Stack
+## My Go-To Tech Stack
 - **Languages:** HTML/CSS/JS, TypeScript, PHP, Python, Rust
 - **Frameworks & Libraries:** Next.js, Astro.js, Tailwind CSS, Shadcn-UI
 - **Tools & Platforms:** Netlify, Vercel, Supabase, PocketBase
 
-### Connect with Me
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alecwreimel/)
 - [Portfolio](https://alecreimel.com)
 - [Quick Bio Page](https://bio.alecreimel.com)
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=areimel&show_icons=true&theme=radical)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areimel&layout=compact&theme=radical)

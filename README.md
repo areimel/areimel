@@ -13,11 +13,10 @@
 ## Hi there 👋, I'm Alec!
 
 ### About Me
-- 🔭 **I’m currently working on:** Senior Frontend Dev, 
+- 🔭 **My current roles:** Senior Frontend Dev, AI Engineer, Tech Lead, Technology Advocate, Freelance Developer
 - 🌱 **I’m currently learning:** Enterprise Web Dev, Hybrid Web/Desktop apps, Custom AI
 - 👯 **I’m looking to collaborate on:** AI, Marketing Tech, Tracking & Analytics Tools
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** [Something Interesting About You]
 
 ### My Go-To Tech Stack
 - **Languages:** HTML/CSS/JS, TypeScript, PHP, Python, Rust

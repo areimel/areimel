@@ -1,16 +1,36 @@
-## Hi there 👋
+```
+   █████████   ████                       ███████████             ███                           ████ 
+  ███▒▒▒▒▒███ ▒▒███                      ▒▒███▒▒▒▒▒███           ▒▒▒                           ▒▒███ 
+ ▒███    ▒███  ▒███   ██████   ██████     ▒███    ▒███   ██████  ████  █████████████    ██████  ▒███ 
+ ▒███████████  ▒███  ███▒▒███ ███▒▒███    ▒██████████   ███▒▒███▒▒███ ▒▒███▒▒███▒▒███  ███▒▒███ ▒███ 
+ ▒███▒▒▒▒▒███  ▒███ ▒███████ ▒███ ▒▒▒     ▒███▒▒▒▒▒███ ▒███████  ▒███  ▒███ ▒███ ▒███ ▒███████  ▒███ 
+ ▒███    ▒███  ▒███ ▒███▒▒▒  ▒███  ███    ▒███    ▒███ ▒███▒▒▒   ▒███  ▒███ ▒███ ▒███ ▒███▒▒▒   ▒███ 
+ █████   █████ █████▒▒██████ ▒▒██████     █████   █████▒▒██████  █████ █████▒███ █████▒▒██████  █████
+▒▒▒▒▒   ▒▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒   ▒▒▒▒▒▒     ▒▒▒▒▒   ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒ 
+                                                                                                     
+```
 
-<!--
-**areimel/areimel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Alec!
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 **I’m currently working on:** Senior Frontend Dev, 
+- 🌱 **I’m currently learning:** Enterprise Web Dev, Hybrid Web/Desktop apps, Custom AI
+- 👯 **I’m looking to collaborate on:** AI, Marketing Tech, Tracking & Analytics Tools
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** [Something Interesting About You]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Go-To Tech Stack
+- **Languages:** HTML/CSS/JS, TypeScript, PHP, Python, Rust
+- **Frameworks & Libraries:** Next.js, Astro.js, Tailwind CSS, Shadcn-UI
+- **Tools & Platforms:** Netlify, Vercel, Supabase, PocketBase
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/alecwreimel/)
+- [Portfolio](https://alecreimel.com)
+- [Quick Bio Page](https://bio.alecreimel.com)
+
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=areimel&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areimel&layout=compact&theme=radical)
